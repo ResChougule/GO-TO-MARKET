@@ -1,6 +1,6 @@
 # GO-TO-MARKET
 
-</> #markdown 
+</> Markdown 
 
 e-scooter-launch-berlin/
 │
