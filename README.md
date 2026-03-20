@@ -1,10 +1,9 @@
-# GO-TO-MARKET
 
 
 # Go-to-Market Strategy: Electric Scooter Launch – Berlin Mitte
 
+```text
 e-scooter-launch-berlin/
-│
 ├─ README.md
 ├─ images/
 │   └─ infographic.png
@@ -16,7 +15,6 @@ e-scooter-launch-berlin/
 │   └─ project_report.pdf
 └─ notebooks/
     └─ market_simulation.ipynb
-
 
 
 
