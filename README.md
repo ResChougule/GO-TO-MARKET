@@ -1,7 +1,7 @@
 
 # Go-to-Market Strategy: Electric Scooter Launch – Berlin Mitte
 
-![Infographic](images/infographic.png)
+![Infographic.png](images/infographic.png)
 
 ## Project Overview
 As part of my Master’s program, I led a team to design a go-to-market strategy for launching an electric scooter service in Berlin Mitte. The project focused on **maximizing adoption among commuters and tourists while ensuring operational efficiency**.
