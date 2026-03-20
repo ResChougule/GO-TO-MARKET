@@ -34,7 +34,7 @@ electric-scooter-launch-berlin/
 
 ------
 
-</> Markdown
+´´´´´´´
 
 ## Key Insights
 - Targeting **high-density commuter and tourist areas** maximized adoption potential  
