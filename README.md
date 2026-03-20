@@ -17,9 +17,9 @@ e-scooter-launch-berlin/
     └─ market_simulation.ipynb
 
 
-# Go-to-Market Strategy: Electric Scooter Launch – Berlin Mitte
+------------------------
 
-## Project Overview
+# Project Overview
 This project was part of my Master’s program. The goal was to design a go-to-market strategy for launching an electric scooter service in Berlin Mitte, targeting urban commuters and tourists while ensuring operational efficiency.
 
 ## Objectives
