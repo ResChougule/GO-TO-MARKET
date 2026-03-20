@@ -3,7 +3,6 @@
 
 # Go-to-Market Strategy: Electric Scooter Launch – Berlin Mitte
 
-</> Markdown 
 e-scooter-launch-berlin/
 │
 ├─ README.md
