@@ -1,4 +1,20 @@
+electric-scooter-launch-berlin/
+│
+├─ data/
+│  ├─ market_analysis.csv         # City zones, commuter numbers, expected adoption rates
+│  └─ competitor_analysis.csv     # Competitor fleet sizes, pricing, and market share
+│
+├─ notebooks/
+│  └─ market_simulation.ipynb     # Python notebook modeling fleet utilization and revenue outcomes
+│
+├─ docs/
+│  └─ project_report.pdf          # Optional 1-page project summary for deeper insights
+│
+├─ pricing_model.xlsx             # Pricing assumptions, revenue projections, scenario analysis
+│
+└─ README.md                      # Project overview and documentation
 
+------
 
 # Go-to-Market Strategy: Electric Scooter Launch – Berlin Mitte
 
