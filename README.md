@@ -1,6 +1,6 @@
 
 # Go-to-Market Strategy: Electric Scooter Launch – Berlin Mitte
--
+
 [📊 View Infographic](https://github.com/ResChougule/GO-TO-MARKET/blob/main/Infographic.png)
 --------
 
