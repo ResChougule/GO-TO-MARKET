@@ -1,7 +1,7 @@
 
 # Go-to-Market Strategy: Electric Scooter Launch – Berlin Mitte
 -
-[![View Infographic](https://img.shields.io/badge/View-Infographic-blue?style=for-the-badge&logo=github)](https://github.com/ResChougule/GO-TO-MARKET/blob/main/Infographic.png)
+[📊 View Infographic](https://github.com/ResChougule/GO-TO-MARKET/blob/main/Infographic.png)
 --------
 
 ### Project Overview
