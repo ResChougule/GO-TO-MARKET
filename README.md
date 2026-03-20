@@ -1,3 +1,4 @@
+´´´´´´
 electric-scooter-launch-berlin/
 │
 ├─ data/
@@ -14,6 +15,7 @@ electric-scooter-launch-berlin/
 │
 └─ README.md                      # Project overview and documentation
 
+------
 ------
 
 # Go-to-Market Strategy: Electric Scooter Launch – Berlin Mitte
