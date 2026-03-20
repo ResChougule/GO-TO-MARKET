@@ -1,7 +1,4 @@
 
-# Go-to-Market Strategy: Electric Scooter Launch – Berlin Mitte
-
-[**📊 View Infographic**](https://raw.githubusercontent.com/ResChougule/GO-TO-MARKET/main/Infographic.png)
 
 electric-scooter-launch-berlin/
 ├── 📁 data/
@@ -15,11 +12,10 @@ electric-scooter-launch-berlin/
 └── 📝 README.md
 
 
+-----------
+# Go-to-Market Strategy: Electric Scooter Launch – Berlin Mitte
 
-
-
-
-
+[**📊 View Infographic**](https://raw.githubusercontent.com/ResChougule/GO-TO-MARKET/main/Infographic.pn
 
 ## Project Overview
 As part of my Master’s program, I led a team to design a go-to-market strategy for launching an electric scooter service in Berlin Mitte. The project focused on **maximizing adoption among commuters and tourists while ensuring operational efficiency**.
