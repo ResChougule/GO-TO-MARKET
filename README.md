@@ -1,14 +1,10 @@
 
-
-
-
-
-## Go-to-Market Strategy: Electric Scooter Launch – Berlin Mitte
+# Go-to-Market Strategy: Electric Scooter Launch – Berlin Mitte
 
 ![Infographic](images/infographic.png)
 
 ## Project Overview
-As part of my Master’s program, I led a team to design a go-to-market strategy for launching an electric scooter service in Berlin Mitte. The project focused on maximizing adoption among commuters and tourists while ensuring operational efficiency.
+As part of my Master’s program, I led a team to design a go-to-market strategy for launching an electric scooter service in Berlin Mitte. The project focused on **maximizing adoption among commuters and tourists while ensuring operational efficiency**.
 
 ## Objectives
 - Identify key commuter and tourist segments
@@ -17,21 +13,39 @@ As part of my Master’s program, I led a team to design a go-to-market strategy
 - Simulate launch and forecast measurable outcomes
 
 ## Key Insights
-- Targeting high-density commuter and tourist areas maximized adoption potential
-- Projected €1.5M first-year revenue
-- Operational improvements could reduce downtime by 20%
-- Achieved 75% peak fleet utilization in pilot simulation
+- Targeting **high-density commuter and tourist areas** maximized adoption potential  
+- Projected **€1.5M first-year revenue**  
+- Operational improvements could reduce downtime by **20%**  
+- Achieved **75% peak fleet utilization** in pilot simulation
+
+## Visual Overview
+The infographic above summarizes:
+1. **Market Analysis:** Adoption likelihood and competitor landscape
+2. **Launch Plan:** Map of Berlin Mitte with proposed station locations
+3. **Strategy & Execution:** Fleet deployment, pricing, marketing campaigns
+4. **Projected Outcomes:** Revenue, operational efficiency, utilization
 
 ## Data Files
-- data/market_analysis.csv
-- data/competitor_analysis.csv
-- data/pricing_model.xlsx
-- notebooks/market_simulation.ipynb
-- docs/project_report.pdf
+The project includes supporting data to make it **fully actionable**:
+
+| File | Description |
+|------|-------------|
+| `data/market_analysis.csv` | City zones, commuter numbers, and expected adoption rates |
+| `data/competitor_analysis.csv` | Competitor fleet sizes, pricing, and market share |
+| `data/pricing_model.xlsx` | Pricing assumptions, revenue projections, and scenario analysis |
+| `notebooks/market_simulation.ipynb` | Python notebook modeling fleet utilization and revenue outcomes |
+| `docs/project_report.pdf` | Optional 1-page project summary for deeper insights |
 
 ## Skills Demonstrated
-- Market research & analysis
-- Strategic planning & execution
-- Financial modeling & forecasting
-- Cross-functional coordination
-- Data visualization & insights communication
+- Market research & analysis  
+- Strategic planning & execution  
+- Financial modeling & forecasting  
+- Cross-functional coordination  
+- Data visualization & insights communication  
+
+## How to Use
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/e-scooter-launch-berlin.git
+
+
