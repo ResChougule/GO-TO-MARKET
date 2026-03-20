@@ -43,9 +43,4 @@ The project includes supporting data to make it **fully actionable**:
 - Cross-functional coordination  
 - Data visualization & insights communication  
 
-## How to Use
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/e-scooter-launch-berlin.git
-
 
